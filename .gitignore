@@ -25,3 +25,5 @@ pip-selfcheck.json
 login.sh
 .cache
 
+.DS_Store
+.ipynb_checkpoints/
